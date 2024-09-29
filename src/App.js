@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/yasmeencardenas/shecodes-react-week5-project"
+            href="https://github.com/yasmeencardenas/shecodes-react-week6-project"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -27,7 +27,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://spectacular-boba-88cc8d.netlify.app/"
+            href="https://lustrous-swan-b71f33.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
